@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "profile": {
+        "name": "Andre"
+      },
+      "wa_id": "79944067536"
+    }
+  ],
+  "messages": [
+    {
+      "from": "79944067536",
+      "id": "ABGGeZRAZ1NvAhBYGfLhiw5BMBEdPnhTMdje",
+      "image": {
+        "caption": "Просто test",
+        "id": "8b1e6213-3003-4577-83d3-2d2b77eab795",
+        "mime_type": "image/jpeg",
+        "sha256": "7f123e7e9c395cf174d0bf9905212e846a3f058ac7019a2b5bb7d61a0cb7ac94"
+      },
+      "timestamp": "1629292975",
+      "type": "image"
+    }
+  ]
+}

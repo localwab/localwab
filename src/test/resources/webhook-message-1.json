@@ -1,0 +1,21 @@
+{
+  "contacts": [
+    {
+      "profile": {
+        "name": "Andre"
+      },
+      "wa_id": "79944065555"
+    }
+  ],
+  "messages": [
+    {
+      "from": "79944065555",
+      "id": "ABGGeZRAZ1NvAhAYlFdP4V6Y0_R3FfN6fJr-",
+      "text": {
+        "body": "Test Web 12 Aug, 1"
+      },
+      "timestamp": "1628770488",
+      "type": "text"
+    }
+  ]
+}

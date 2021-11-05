@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "profile": {
+        "name": "Andre"
+      },
+      "wa_id": "79944067536"
+    }
+  ],
+  "messages": [
+    {
+      "from": "79944067536",
+      "id": "ABGGeZRAZ1NvAhCN2MqoXGMPO9-z9MpYIIAB",
+      "image": {
+        "caption": "Картинка моя",
+        "id": "d674171b-b912-4d76-9118-e2d571e16f33",
+        "mime_type": "image/jpeg",
+        "sha256": "79bcf82dbed5de17d3dd96a9092804696ab96f71a840a26849960486075e0292"
+      },
+      "timestamp": "1628771136",
+      "type": "image"
+    }
+  ]
+}

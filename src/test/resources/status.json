@@ -1,0 +1,17 @@
+{
+  "statuses": [
+    {
+      "conversation": {
+        "id": "73cfc2eee2c6d5643e831e2750a9a5cf"
+      },
+      "id": "gBGGeZRAZ1NvAgn4gdjDH8IpKyM",
+      "pricing": {
+        "billable": false,
+        "pricing_model": "NBP"
+      },
+      "recipient_id": "79944067536",
+      "status": "sent",
+      "timestamp": "1629293084"
+    }
+  ]
+}

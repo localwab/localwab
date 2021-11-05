@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "api_status": "stable",
+    "version": "2.33.4"
+  },
+  "settings": {
+    "application": {
+      "callback_backoff_delay_ms": 3000,
+      "callback_persist": true,
+      "db_garbagecollector_enable": true,
+      "heartbeat_interval": 5,
+      "max_callback_backoff_delay_ms": 900000,
+      "media": {
+        "auto_download": [
+          "voice",
+          "sticker",
+          "audio",
+          "document",
+          "image",
+          "video"
+        ]
+      },
+      "notify_user_change_number": true,
+      "pass_through": false,
+      "sent_status": true,
+      "show_security_notifications": false,
+      "skip_referral_media_download": false,
+      "unhealthy_interval": 30,
+      "wa_id": "",
+      "webhooks": {
+        "max_concurrent_requests": 6,
+        "url": ""
+      }
+    }
+  }
+}

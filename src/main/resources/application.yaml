@@ -1,0 +1,14 @@
+# URL of the application to be tested
+wab:
+  webhooks-url: ${WEBHOOKS_URL:localhost:8080}
+  wa-api-key: ${WA_API_KEY:this-is-test-token-for-health}
+
+springdoc:
+  packagesToScan: com.localwab.web.controller, com.localwab.web.controller.mock
+  springdoc.pathsToMatch: /v1
+
+mock:
+  account-verification-code: ${ACCOUNT_VERIFICATION_CODE:123456}
+  default-new-password: ${DEFAULT_NEW_PASSWORD:Pass123-qwerty}
+  import:
+    contacts-file-name: ${IMPORT_CONTACTS_FROM:/wab-data/contacts.json}

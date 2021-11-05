@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "api_status": "stable",
+    "version": "2.33.4"
+  },
+  "settings": {
+    "application": {
+      "media": {
+        "providers": []
+      }
+    }
+  }
+}

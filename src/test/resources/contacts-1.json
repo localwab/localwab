@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "input": "+16315551000",
+      "status": "valid",
+      "wa_id": "16315551000"
+    },
+    {
+      "input": "+16315551000",
+      "status": "processing",
+      "wa_id": "16315551000"
+    },
+    {
+      "input": "6315551002",
+      "status": "invalid",
+      "wa_id": "16315551000"
+    },
+    {
+      "input": "+163155588",
+      "status": "failed",
+      "wa_id": "16315551000"
+    }
+  ]
+}
